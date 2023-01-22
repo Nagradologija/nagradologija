@@ -38,6 +38,7 @@
 **/dist
 **/build
 **/.svelte-kit
+**/.vite
 
 # Test reports
 **/junit.xml
